@@ -5,21 +5,24 @@ the difference.
 
 ## Tutorials
 
-Python:
-* https://docs.python.org/3/tutorial/
-
 PHP:
 * http://tut.php-quake.net/en/
 
-## Manuals / Libraries
+Python:
+* https://docs.python.org/3/tutorial/
+
+## Manuals / References / Libraries
+
+C++:
+* http://www.cplusplus.com/reference/
+
+PHP:
+* http://php.net/manual/en/
 
 Python:
 * https://docs.python.org/3/library/functions.html
 * [Argparse](https://docs.python.org/3/library/argparse.html) for argument parsing
 * [NumPy](http://www.numpy.org/) and [SciPy](http://www.scipy.org/) for scientific computations
-
-PHP:
-* http://php.net/manual/en/
 
 ## Style guides
 
