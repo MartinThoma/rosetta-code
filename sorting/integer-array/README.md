@@ -8,8 +8,10 @@ Every program in this folder
 
 | #   | Language             | Speed  | LOCs |
 | --- | -------------------- | ------ | ---- |
-| 1   | Python (with PyPy)   | 3.14s  | 1    |
-| 2   | Ruby                 | 5.04s  | 1    |
-| 3   | Go                   | 6.17s  | 1    |
-| 4   | Python (with Cython) | 11.51s | 1    |
-| 5   | PHP                  | 36.28s | 1    |
+| 1   | C++ (with -O3)       | 1.36   | 1    |
+| 2   | Python (with PyPy)   | 3.14s  | 1    |
+| 3   | Ruby                 | 5.04s  | 1    |
+| 4   | Go                   | 6.17s  | 1    |
+| 5   | C++                  | 7.95   | 1    |
+| 6   | Python (with Cython) | 11.51s | 1    |
+| 7   | PHP                  | 36.28s | 1    |
