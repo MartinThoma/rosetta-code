@@ -25,3 +25,8 @@ PHP:
 
 Python:
 * [PEP8](https://www.python.org/dev/peps/pep-0008/) and [pep8online.com](http://pep8online.com/) for checking it
+
+## Interesting
+
+PHP:
+* [The PHP Benchmark](http://www.phpbench.com/)
