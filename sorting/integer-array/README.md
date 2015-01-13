@@ -7,4 +7,4 @@ Every program in this folder
 ## Results
 
 1. Go: 6.172389218s
-2. Python: 11.51 seconds
+2. Python: 11.51s
