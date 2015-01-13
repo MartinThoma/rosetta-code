@@ -6,9 +6,10 @@ Every program in this folder
 
 ## Results
 
-| #   | Language | Speed  | LOCs |
-| --- | -------- | ------ | ---- |
-| 1   | Ruby     | 5.04s  | 1    |
-| 2   | Go       | 6.17s  | 1    |
-| 3   | Python   | 11.51s | 1    |
-| 4   | PHP      | 36.28s | 1    |
+| #   | Language             | Speed  | LOCs |
+| --- | -------------------- | ------ | ---- |
+| 1   | Python (with PyPy)   | 3.14s  | 1    |
+| 2   | Ruby                 | 5.04s  | 1    |
+| 3   | Go                   | 6.17s  | 1    |
+| 4   | Python (with Cython) | 11.51s | 1    |
+| 5   | PHP                  | 36.28s | 1    |
