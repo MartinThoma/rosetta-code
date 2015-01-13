@@ -6,5 +6,9 @@ Every program in this folder
 
 ## Results
 
-1. Go: 6.172389218s
-2. Python: 11.51s
+| #   | Language | Speed  | LOCs |
+| --- | -------- | ------ | ---- |
+| 1   | Ruby     | 5.04s  | 1    |
+| 2   | Go       | 6.17s  | 1    |
+| 3   | Python   | 11.51s | 1    |
+| 4   | PHP      | 36.28s | 1    |

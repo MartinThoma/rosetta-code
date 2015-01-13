@@ -18,8 +18,10 @@ func main() {
     }
 
     fmt.Printf("Start sorting %v random integers...\n", n)
+
     start := time.Now()
     sort.Sort(sort.IntSlice(slice))
     elapsed := time.Since(start)
+
     fmt.Printf("%s\n", elapsed)
 }

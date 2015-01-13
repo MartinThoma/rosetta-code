@@ -6,13 +6,14 @@
 import random
 import time
 
-# Create the array - well, actually a listn
+# Create the array - well, actually a list
 n = 10000000
-array = [random.randint(0, 1000000000) for i in range(n)]
+max_int = 1000000000
+array = [random.randint(0, max_int) for i in range(n)]
 
 # Sort it and measure time
 t0 = time.time()
-sorted_array = sorted(array)
+array_sorted = sorted(array)
 t1 = time.time()
 
 # Output the time
