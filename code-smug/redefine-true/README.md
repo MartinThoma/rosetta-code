@@ -11,3 +11,11 @@ if True:
 else:
     print("YourLanguage 'supports' reassignment of True :-(")
 ```
+
+## Results
+
+| Language   | Result | Comments                    |
+| ---------- | ------ | --------------------------- |
+| C++        | Good   |                             |
+| Python 2.7 | Bad    | PEP8 checkers will warn you |
+| Python 3.X | Good   |                             |
