@@ -31,5 +31,8 @@ Python:
 
 ## Interesting
 
+All languages:
+* [The Computer Languages Benchmarks Game](http://benchmarksgame.alioth.debian.org/)
+
 PHP:
 * [The PHP Benchmark](http://www.phpbench.com/)
