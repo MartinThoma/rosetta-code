@@ -9,5 +9,5 @@ def fib(n):
         return fib(n-1) + fib(n-2)
 
 if __name__ == '__main__':
-    n = 15
+    n = 36
     print("The %ith Fibonacci number is %i." % (n, fib(n)))
