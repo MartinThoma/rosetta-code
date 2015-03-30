@@ -1,0 +1,9 @@
+[package]
+name = "hello_world" # the name of the package
+version = "0.0.1"    # the current version, obeying semver
+authors = [ "you@example.com" ]
+[[bin]]
+name = "rust"
+path = "rust.rs"
+[dependencies]
+rand = "*" # Or a specific version
