@@ -1,4 +1,4 @@
 compile:
-	cargo run rust.rs
+	cargo build --release
 run:
-	@target/rust
+	@target/release/rust
