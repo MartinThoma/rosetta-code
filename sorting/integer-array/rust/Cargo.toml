@@ -7,3 +7,4 @@ name = "rust"
 path = "rust.rs"
 [dependencies]
 rand = "*" # Or a specific version
+time = "*"
