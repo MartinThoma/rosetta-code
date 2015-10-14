@@ -1,0 +1,494 @@
+<search>
+    <gasStations type="Array">
+        <gasStation ident="519b4bc4bed7139bf0d45a85" brand="Raiffeisen" name="Zg Raiffeisen Karlsruhe" street="Waldhornstraße 14" zip="76131" city="Karlsruhe" lat="49.010433" lng="8.4089736" highway="false" services="" distance="0.523" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="24:00" />
+                <openingTime day="2" from="00:00" till="24:00" />
+                <openingTime day="3" from="00:00" till="24:00" />
+                <openingTime day="4" from="00:00" till="24:00" />
+                <openingTime day="5" from="00:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.339" timestamp="1426167300"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b49eebed7139bf0d441aa" brand="BFT" name="Bft Karlsruhe" street="Willy-Brandt-Allee 3" zip="76131" city="Karlsruhe" lat="49.0155936" lng="8.3977752" highway="false" services="" distance="0.508" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="06:00" till="22:00" />
+                <openingTime day="2" from="06:00" till="22:00" />
+                <openingTime day="3" from="06:00" till="22:00" />
+                <openingTime day="4" from="06:00" till="22:00" />
+                <openingTime day="5" from="06:00" till="22:00" />
+                <openingTime day="6" from="07:00" till="22:00" />
+                <openingTime day="7" from="08:00" till="22:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.339" timestamp="1426166040"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48babed7139bf0d42503" brand="Aral" name="Aral" street="Amalienstraße 55/59" zip="76133" city="Karlsruhe" lat="49.008976" lng="8.391127" highway="false" services="cell_phone,car_wash,wc,convenience_store" distance="1.111" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="24:00" />
+                <openingTime day="2" from="00:00" till="24:00" />
+                <openingTime day="3" from="00:00" till="24:00" />
+                <openingTime day="4" from="00:00" till="24:00" />
+                <openingTime day="5" from="00:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.349" timestamp="1426168860"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b4bb3bed7139bf0d459b7" brand="Raiffeisen" name="Zg Raiffeisen Tankstelle Karlsruhe" street="Rüppurrer Straße 102" zip="76137" city="Karlsruhe" lat="48.9964566" lng="8.4101221" highway="false" services="" distance="1.996" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="24:00" />
+                <openingTime day="2" from="00:00" till="24:00" />
+                <openingTime day="3" from="00:00" till="24:00" />
+                <openingTime day="4" from="00:00" till="24:00" />
+                <openingTime day="5" from="00:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.339" timestamp="1426166940"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48e0bed7139bf0d42a66" brand="Esso" name="Esso Karlsruhe Brauerstraße" street="Brauerstraße 1 B" zip="76133" city="Karlsruhe" lat="49.004679" lng="8.387291" highway="false" services="car_wash,convenience_store,tire_air" distance="1.617" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="06:00" till="23:00" />
+                <openingTime day="2" from="06:00" till="23:00" />
+                <openingTime day="3" from="06:00" till="23:00" />
+                <openingTime day="4" from="06:00" till="23:00" />
+                <openingTime day="5" from="06:00" till="23:00" />
+                <openingTime day="6" from="08:00" till="23:00" />
+                <openingTime day="7" from="08:00" till="23:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.349" timestamp="1426166460"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48babed7139bf0d42506" brand="Aral" name="Aral" street="Durlacher Allee 46" zip="76131" city="Karlsruhe" lat="49.007656" lng="8.422938" highway="false" services="convenience_store,car_repair,car_wash,cell_phone,wc,food" distance="1.531" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="05:00" till="24:00" />
+                <openingTime day="2" from="05:00" till="24:00" />
+                <openingTime day="3" from="05:00" till="24:00" />
+                <openingTime day="4" from="05:00" till="24:00" />
+                <openingTime day="5" from="05:00" till="24:00" />
+                <openingTime day="6" from="06:00" till="24:00" />
+                <openingTime day="7" from="06:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.349" timestamp="1426168140"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48abbed7139bf0d421f1" brand="Shell" name="Shell Linkenheimer Land" street="Linkenheimer Land 102 A" zip="76149" city="Karlsruhe" lat="49.033519" lng="8.395233" highway="false" services="car_wash,convenience_store,wc" distance="2.269" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="23:59" />
+                <openingTime day="2" from="00:00" till="23:59" />
+                <openingTime day="3" from="00:00" till="23:59" />
+                <openingTime day="4" from="00:00" till="23:59" />
+                <openingTime day="5" from="00:00" till="23:59" />
+                <openingTime day="6" from="00:00" till="23:59" />
+                <openingTime day="7" from="00:00" till="23:59" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.359" timestamp="1426164840"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b495ebed7139bf0d436dc" brand="Esso" name="Esso Karlsruhe Schwarzwaldstraße" street="Schwarzwaldstraße 88" zip="76137" city="Karlsruhe" lat="48.991535" lng="8.401945" highway="false" services="car_wash,convenience_store,food_to_go,tire_air,wc" distance="2.504" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="24:00" />
+                <openingTime day="2" from="00:00" till="24:00" />
+                <openingTime day="3" from="00:00" till="24:00" />
+                <openingTime day="4" from="00:00" till="24:00" />
+                <openingTime day="5" from="00:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.349" timestamp="1426166220"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48babed7139bf0d42507" brand="Aral" name="Aral" street="Ebertstraße 32" zip="76137" city="Karlsruhe" lat="48.995133" lng="8.389606" highway="false" services="convenience_store,food,car_repair,car_wash,cell_phone,wc" distance="2.356" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="06:00" till="24:00" />
+                <openingTime day="2" from="06:00" till="24:00" />
+                <openingTime day="3" from="06:00" till="24:00" />
+                <openingTime day="4" from="06:00" till="24:00" />
+                <openingTime day="5" from="06:00" till="24:00" />
+                <openingTime day="6" from="07:00" till="24:00" />
+                <openingTime day="7" from="07:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.399" timestamp="1426147260"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48b4bed7139bf0d423fb" brand="Jet" name="Jet" street="Haid-und-Neu-Strasse 30 a" zip="76131" city="Karlsruhe" lat="49.013214" lng="8.428701" highway="false" services="car_wash" distance="1.782" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="06:00" till="22:00" />
+                <openingTime day="2" from="06:00" till="22:00" />
+                <openingTime day="3" from="06:00" till="22:00" />
+                <openingTime day="4" from="06:00" till="22:00" />
+                <openingTime day="5" from="06:00" till="22:00" />
+                <openingTime day="6" from="08:00" till="22:00" />
+                <openingTime day="7" from="08:00" till="22:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.339" timestamp="1426167438"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48babed7139bf0d42509" brand="Aral" name="Aral" street="Linkenheimer Landstraße 125" zip="76149" city="Karlsruhe" lat="49.038134" lng="8.393949" highway="false" services="convenience_store,food,car_repair,car_wash,cell_phone,wc" distance="2.788" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="24:00" />
+                <openingTime day="2" from="00:00" till="24:00" />
+                <openingTime day="3" from="00:00" till="24:00" />
+                <openingTime day="4" from="00:00" till="24:00" />
+                <openingTime day="5" from="00:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.409" timestamp="1426157820"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b49e2bed7139bf0d440d8" brand="OMV" name="Omv Karlsruhe" street="Kriegstraße 139" zip="76135" city="Karlsruhe" lat="49.0054493" lng="8.3791539" highway="false" services="convenience_store,car_wash,car_repair" distance="2.066" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="05:00" till="24:00" />
+                <openingTime day="2" from="05:00" till="24:00" />
+                <openingTime day="3" from="05:00" till="24:00" />
+                <openingTime day="4" from="05:00" till="24:00" />
+                <openingTime day="5" from="05:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.349" timestamp="1426167795"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48babed7139bf0d4250a" brand="Aral" name="Aral" street="Kaiserallee 12 G" zip="76133" city="Karlsruhe" lat="49.011211" lng="8.375136" highway="false" services="food,car_repair,car_wash,cell_phone,wc,convenience_store" distance="2.149" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="24:00" />
+                <openingTime day="2" from="00:00" till="24:00" />
+                <openingTime day="3" from="00:00" till="24:00" />
+                <openingTime day="4" from="00:00" till="24:00" />
+                <openingTime day="5" from="00:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.399" timestamp="1426157580"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48babed7139bf0d42508" brand="Aral" name="Aral Karlsruhe" street="Haid-Und-Neu-Straße 60" zip="76131" city="Karlsruhe" lat="49.0151857" lng="8.4354338" highway="false" services="convenience_store,food,car_wash,cell_phone,wc,car_repair" distance="2.274" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="24:00" />
+                <openingTime day="2" from="00:00" till="24:00" />
+                <openingTime day="3" from="00:00" till="24:00" />
+                <openingTime day="4" from="00:00" till="24:00" />
+                <openingTime day="5" from="00:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.349" timestamp="1426167900"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b4909bed7139bf0d42f50" brand="Real" name="Real Markt Tankstelle Karlsruhe" street="Ortenbergstraße 8" zip="76135" city="Karlsruhe" lat="48.9911161" lng="8.3770108" highway="false" services="" distance="3.231" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="07:00" till="20:00" />
+                <openingTime day="2" from="07:00" till="20:00" />
+                <openingTime day="3" from="07:00" till="20:00" />
+                <openingTime day="4" from="07:00" till="20:00" />
+                <openingTime day="5" from="07:00" till="20:00" />
+                <openingTime day="6" from="07:00" till="20:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.329" timestamp="1426168740"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b4952bed7139bf0d435e9" brand="Avia" name="Avia" street="Königsberger Straße 5" zip="76139" city="Karlsruhe" lat="49.0336" lng="8.434071" highway="false" services="convenience_store,car_repair,cell_phone,car_wash,shower" distance="3.076" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="08:00" till="18:30" />
+                <openingTime day="2" from="08:00" till="18:30" />
+                <openingTime day="3" from="08:00" till="18:30" />
+                <openingTime day="4" from="08:00" till="18:30" />
+                <openingTime day="5" from="08:00" till="18:30" />
+                <openingTime day="6" from="08:00" till="13:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.349" timestamp="1426166789"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b495ebed7139bf0d436db" brand="Esso" name="Esso Karlsruhe Durlacher" street="Durlacher Allee 102" zip="76137" city="Karlsruhe" lat="49.00464" lng="8.438808" highway="false" services="car_wash,convenience_store" distance="2.724" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="06:00" till="23:00" />
+                <openingTime day="2" from="06:00" till="23:00" />
+                <openingTime day="3" from="06:00" till="23:00" />
+                <openingTime day="4" from="06:00" till="23:00" />
+                <openingTime day="5" from="06:00" till="23:00" />
+                <openingTime day="6" from="07:00" till="23:00" />
+                <openingTime day="7" from="08:00" till="22:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.349" timestamp="1426166460"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b4ac0bed7139bf0d44ddf" brand="Avia" name="Avia Wilhelm Hausenstein Allee" street="Wilhelm-Hausenstein-Allee 16" zip="76187" city="Karlsruhe" lat="49.029351" lng="8.370685" highway="false" services="convenience_store,car_repair,car_wash,cell_phone,shower" distance="2.987" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="07:00" till="19:00" />
+                <openingTime day="2" from="07:00" till="19:00" />
+                <openingTime day="3" from="07:00" till="19:00" />
+                <openingTime day="4" from="07:00" till="19:00" />
+                <openingTime day="5" from="07:00" till="19:00" />
+                <openingTime day="6" from="08:00" till="14:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.359" timestamp="1426166700"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b4c13bed7139bf0d45e06" brand="Independent" name="Waldstadt Tankhof" street="Schneidemühler Straße 21" zip="76139" city="Karlsruhe" lat="49.0358456" lng="8.4353697" highway="false" services="" distance="3.322" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="24:00" />
+                <openingTime day="2" from="00:00" till="24:00" />
+                <openingTime day="3" from="00:00" till="24:00" />
+                <openingTime day="4" from="00:00" till="24:00" />
+                <openingTime day="5" from="00:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.289" timestamp="1425586560"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b4ac0bed7139bf0d44dde" brand="Esso" name="Esso Karlsruhe Pulverhausstraße" street="Pulverhausstraße 38" zip="76135" city="Karlsruhe" lat="48.9903558" lng="8.3721024" highway="false" services="car_wash,convenience_store,tire_air,wc" distance="3.525" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="24:00" />
+                <openingTime day="2" from="00:00" till="24:00" />
+                <openingTime day="3" from="00:00" till="24:00" />
+                <openingTime day="4" from="00:00" till="24:00" />
+                <openingTime day="5" from="00:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.349" timestamp="1426166460"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48e0bed7139bf0d42a68" brand="Total" name="Total" street="Karlsruher Straße 82" zip="76139" city="Karlsruhe" lat="49.025258" lng="8.449087" highway="false" services="car_wash,convenience_store" distance="3.498" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="24:00" />
+                <openingTime day="2" from="00:00" till="24:00" />
+                <openingTime day="3" from="00:00" till="24:00" />
+                <openingTime day="4" from="00:00" till="24:00" />
+                <openingTime day="5" from="00:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.349" timestamp="1426161000"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b49c9bed7139bf0d43f17" brand="Independent" name="Efa Karlsruhe" street="Lameystraße 7" zip="76185" city="Karlsruhe" lat="49.010927" lng="8.357534" highway="false" services="" distance="3.428" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="06:00" till="22:00" />
+                <openingTime day="2" from="06:00" till="22:00" />
+                <openingTime day="3" from="06:00" till="22:00" />
+                <openingTime day="4" from="06:00" till="22:00" />
+                <openingTime day="5" from="06:00" till="22:00" />
+                <openingTime day="6" from="07:00" till="22:00" />
+                <openingTime day="7" from="08:00" till="22:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.339" timestamp="1426167240"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b4c1ebed7139bf0d45e79" brand="Eberhardt" name="Bft Tankstelle Eberhardt Gmb H" street="Pulverhausstraße 16" zip="76185" city="Karlsruhe" lat="48.9964012" lng="8.3600026" highway="false" services="convenience_store,car_wash" distance="3.778" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="24:00" />
+                <openingTime day="2" from="00:00" till="24:00" />
+                <openingTime day="3" from="00:00" till="24:00" />
+                <openingTime day="4" from="00:00" till="24:00" />
+                <openingTime day="5" from="00:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.339" timestamp="1426167180"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48e0bed7139bf0d42a69" brand="Shell" name="Heiko Ludewig Gmb H Karlsruhe" street="Neureuter Straße 14" zip="76185" city="Karlsruhe" lat="49.02475" lng="8.357623" highway="false" services="car_wash,convenience_store,tire_air" distance="3.608" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="23:59" />
+                <openingTime day="2" from="00:00" till="23:59" />
+                <openingTime day="3" from="00:00" till="23:59" />
+                <openingTime day="4" from="00:00" till="23:59" />
+                <openingTime day="5" from="00:00" till="23:59" />
+                <openingTime day="6" from="00:00" till="23:59" />
+                <openingTime day="7" from="00:00" till="23:59" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.399" timestamp="1426161658"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b4b5fbed7139bf0d455d6" brand="Real" name="Real Markt Tankstelle" street="Durlacher Allee 111" zip="76137" city="Karlsruhe" lat="49.0051056" lng="8.4515454" highway="false" services="" distance="3.585" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="07:00" till="21:00" />
+                <openingTime day="2" from="07:00" till="21:00" />
+                <openingTime day="3" from="07:00" till="21:00" />
+                <openingTime day="4" from="07:00" till="21:00" />
+                <openingTime day="5" from="07:00" till="21:00" />
+                <openingTime day="6" from="07:00" till="21:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.329" timestamp="1426167412"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48dfbed7139bf0d42a27" brand="Jet" name="Jet" street="Rheinstraße 90" zip="76185" city="Karlsruhe" lat="49.014322" lng="8.355196" highway="false" services="car_wash,food_to_go,convenience_store" distance="3.581" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="06:00" till="24:00" />
+                <openingTime day="2" from="06:00" till="24:00" />
+                <openingTime day="3" from="06:00" till="24:00" />
+                <openingTime day="4" from="06:00" till="24:00" />
+                <openingTime day="5" from="06:00" till="24:00" />
+                <openingTime day="6" from="06:00" till="24:00" />
+                <openingTime day="7" from="07:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.349" timestamp="1426168349"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b4a20bed7139bf0d444d8" brand="Agip" name="Agip Karlsruhe" street="Neureuter Straße 5" zip="76185" city="Karlsruhe" lat="49.0183676" lng="8.3544159" highway="false" services="convenience_store,food,car_wash" distance="3.670" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="24:00" />
+                <openingTime day="2" from="00:00" till="24:00" />
+                <openingTime day="3" from="00:00" till="24:00" />
+                <openingTime day="4" from="00:00" till="24:00" />
+                <openingTime day="5" from="00:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.389" timestamp="1426168201"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b49bdbed7139bf0d43e58" brand="Agip" name="Agip Karlsruhe" street="Killisfeldstraße 44" zip="76227" city="Karlsruhe" lat="48.9963284" lng="8.4528668" highway="false" services="convenience_store,food,car_wash" distance="4.051" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="05:00" till="24:00" />
+                <openingTime day="2" from="05:00" till="24:00" />
+                <openingTime day="3" from="05:00" till="24:00" />
+                <openingTime day="4" from="05:00" till="24:00" />
+                <openingTime day="5" from="05:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.349" timestamp="1426163822"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48babed7139bf0d42505" brand="Aral" name="Aral" street="An Der Tagweide 2" zip="76139" city="Karlsruhe" lat="49.020771" lng="8.458209" highway="false" services="cell_phone" distance="4.003" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="06:30" till="20:00" />
+                <openingTime day="2" from="06:30" till="20:00" />
+                <openingTime day="3" from="06:30" till="20:00" />
+                <openingTime day="4" from="06:30" till="20:00" />
+                <openingTime day="5" from="06:30" till="20:00" />
+                <openingTime day="6" from="08:00" till="18:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.349" timestamp="1426164540"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48a4bed7139bf0d420ae" brand="Jet" name="Jet Karlsruhe" street="Killisfeldstraße 32" zip="76227" city="Karlsruhe" lat="48.9970281" lng="8.4565435" highway="false" services="food_to_go,convenience_store" distance="4.252" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="05:00" till="24:00" />
+                <openingTime day="2" from="05:00" till="24:00" />
+                <openingTime day="3" from="05:00" till="24:00" />
+                <openingTime day="4" from="05:00" till="24:00" />
+                <openingTime day="5" from="05:00" till="24:00" />
+                <openingTime day="6" from="06:00" till="24:00" />
+                <openingTime day="7" from="07:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.339" timestamp="1426167426"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b49a6bed7139bf0d43c9d" brand="Independent" name="Hit Markt" street="Eichelbergstraße 34" zip="76189" city="Karlsruhe" lat="48.99826" lng="8.34944" highway="false" services="" distance="4.368" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="23:59" />
+                <openingTime day="2" from="00:00" till="23:59" />
+                <openingTime day="3" from="00:00" till="23:59" />
+                <openingTime day="4" from="00:00" till="23:59" />
+                <openingTime day="5" from="00:00" till="23:59" />
+                <openingTime day="6" from="00:00" till="23:59" />
+                <openingTime day="7" from="00:00" till="23:59" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.329" timestamp="1426167180"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b4afdbed7139bf0d450f3" brand="Markant" name="Markant Tankstelle Süleyman Inci" street="Siemensallee 77" zip="76187" city="Karlsruhe" lat="49.029028" lng="8.347333" highway="false" services="convenience_store,tire_air,cell_phone,food,car_repair,car_wash" distance="4.477" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="24:00" />
+                <openingTime day="2" from="00:00" till="24:00" />
+                <openingTime day="3" from="00:00" till="24:00" />
+                <openingTime day="4" from="00:00" till="24:00" />
+                <openingTime day="5" from="00:00" till="24:00" />
+                <openingTime day="6" from="00:00" till="24:00" />
+                <openingTime day="7" from="00:00" till="24:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.389" timestamp="1426160877"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b49eebed7139bf0d441ab" brand="BFT" name="Bft Karlsruhe" street="Daxlander Straße 70" zip="76185" city="Karlsruhe" lat="49.0071595" lng="8.345122" highway="false" services="" distance="4.383" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="23:59" />
+                <openingTime day="2" from="00:00" till="23:59" />
+                <openingTime day="3" from="00:00" till="23:59" />
+                <openingTime day="4" from="00:00" till="23:59" />
+                <openingTime day="5" from="00:00" till="23:59" />
+                <openingTime day="6" from="00:00" till="23:59" />
+                <openingTime day="7" from="00:00" till="23:59" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.339" timestamp="1426167060"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b4abfbed7139bf0d44dd0" brand="BFT" name="Bft Auer Straße" street="Auer Straße 50A" zip="76227" city="Karlsruhe" lat="48.9956193" lng="8.4625778" highway="false" services="" distance="4.717" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="00:00" till="23:59" />
+                <openingTime day="2" from="00:00" till="23:59" />
+                <openingTime day="3" from="00:00" till="23:59" />
+                <openingTime day="4" from="00:00" till="23:59" />
+                <openingTime day="5" from="00:00" till="23:59" />
+                <openingTime day="6" from="00:00" till="23:59" />
+                <openingTime day="7" from="00:00" till="23:59" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.339" timestamp="1426168140"></fuel>
+            </fuels>
+        </gasStation>
+        <gasStation ident="519b48aebed7139bf0d42294" brand="Avia" name="Avia" street="Östliche Rheinbrückenstraße 37" zip="76187" city="Karlsruhe" lat="49.029479" lng="8.3429755" highway="false" services="convenience_store,car_repair,car_wash,cell_phone" distance="4.792" is_open="true">
+            <openingTimes type="Array">
+                <openingTime day="1" from="05:00" till="20:30" />
+                <openingTime day="2" from="05:00" till="20:30" />
+                <openingTime day="3" from="05:00" till="20:30" />
+                <openingTime day="4" from="05:00" till="20:30" />
+                <openingTime day="5" from="05:00" till="20:30" />
+                <openingTime day="6" from="05:00" till="20:00" />
+                <openingTime day="7" from="08:00" till="20:00" />
+            </openingTimes>
+            <fuels type="Array">
+                <fuel kind="Super E10" price="1.399" timestamp="1426157820"></fuel>
+            </fuels>
+        </gasStation>
+    </gasStations>
+    <forecast trend="-1">
+        <cdataText><![CDATA[Tanken Sie <br><b>VON 16 - 21 UHR</b>]]></cdataText>
+        <cdataShortText><![CDATA[Tanken Sie <br><b>16 - 21 UHR</b>]]></cdataShortText>
+    </forecast>
+</search>
