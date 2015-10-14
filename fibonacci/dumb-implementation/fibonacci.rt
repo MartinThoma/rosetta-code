@@ -1,3 +1,5 @@
+#![crate_type = "dylib"]
+
 /// Calculate the n-th Fibonacci number.
 ///
 /// # Examples
@@ -7,15 +9,11 @@
 ///
 /// assert_eq!(5, fib(5));
 /// ```
+#[no_mangle]
 pub extern fn fib(n: u32) -> u32 {
     if n <= 1 {
         return n;
     } else {
         return fib(n-1) + fib(n-2);
     }
-}
-
-fn main() {
-    let n = 37;
-    println!("The {0}th Fibonacci number is {1}.", n, fib(n))
 }

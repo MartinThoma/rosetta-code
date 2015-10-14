@@ -19,5 +19,6 @@ The answer should be:
 
 | #   | Language             | Speed  | LOCs |
 | --- | -------------------- | ------ | ---- |
-| 1   | Rust                 |   0,5s |    7 |
-| 2   | Python               |  11,2s |    5 |
+| 1   | Rust                 |  1,22s |   22 |
+| 2   | Python+Rust          |  1,23s | 20+9 |
+| 3   | Python               | 17,29s |   23 |
